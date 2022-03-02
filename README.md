@@ -2,7 +2,7 @@
 
 Vue2 Moralis ERC-20 Query
 
-## Create a .env.local with the data fromn Moralis
+## Create a .env.local with the data from Moralis
 
 VUE_APP_MORALIS_APPLICATION_ID=XXXXXXXXXXXXXXXXXXX
 
